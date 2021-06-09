@@ -1,6 +1,6 @@
 {
-  "name": "react-stop-watch",
-  "version": "1.0.1",
+  "name": "ps-react-stop-watcher",
+  "version": "1.0.0",
   "description": "It is stop watch component developed in react tech",
   "main": "./lib/Stopwatch.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/githubpankajsharma/stopwatch.git"
+    "url": "git+https://github.com/githubpankajsharma/stopwatch.git"
   },
   "keywords": [
     "stop",
